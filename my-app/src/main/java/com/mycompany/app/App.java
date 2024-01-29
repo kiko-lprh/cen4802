@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package com.mycompany.app;
 
+import java.util.Scanner;
 
 
 /**
@@ -11,7 +12,7 @@ import java.util.Scanner;
  * @date January 15, 2024
  * @course CEN 4802C - SOFTWARE INTEGRATION, CONFIGURATION, AND TESTING
  */
-public class Fibo {
+public class App {
     
     /**
      * Main method to take user input and display the nth term of the Fibonacci sequence.
@@ -46,4 +47,3 @@ public class Fibo {
     }
 
 }
-
